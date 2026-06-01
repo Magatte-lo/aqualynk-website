@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@theme {
+  /* === Couleurs Aqualynk (identiques à l'app Flutter) === */
+  --color-leaf-deep: #1B4332;
+  --color-leaf-primary: #2D6A4F;
+  --color-leaf-medium: #40916C;
+  --color-leaf-soft: #95D5B2;
+  --color-leaf-mist: #D8F3DC;
+  --color-cream: #FAF8F1;
+  --color-bone: #FFFEFA;
+  --color-ink: #1A1F1B;
+  --color-ink-soft: #4A5550;
+  --color-ink-mute: #7A8580;
+  --color-line: #E8E2D5;
+  --color-sun: #F4A261;
+  --color-water: #5BA9C7;
+
+  /* === Polices premium === */
+  --font-sans: "DM Sans", system-ui, sans-serif;
+  --font-display: "Fraunces", serif;
+}
+
+/* Base */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-cream);
+  color: var(--color-ink);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Police display utilitaire */
+.font-display {
+  font-family: var(--font-display);
+}
