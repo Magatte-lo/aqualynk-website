@@ -6,7 +6,7 @@ import { Check } from "lucide-react";
 const features = [
   {
     title: "Economique et accessible",
-    desc: "Materiel a moins de 15 000 FCFA pour un prototype complet",
+    desc: "Materiel pour un prototype complet",
   },
   {
     title: "Open source et personnalisable",
