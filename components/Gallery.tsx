@@ -109,7 +109,7 @@ export default function Gallery() {
           className="text-center mt-16"
         >
           <p className="text-sm text-ink-mute italic">
-            Captures d'ecran de l'application Flutter Aqualynk en cours de developpement
+            Captures d'ecran de l'application Flutter Aqualynk
           </p>
         </motion.div>
       </div>
