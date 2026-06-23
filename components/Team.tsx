@@ -27,7 +27,7 @@ const team = [
     email: "membre3@aqualynk.sn",
   },
   {
-    name: "Adja Diallo",
+    name: "Adja Hawa Cisse",
     role: "Developpeur Mobile",
     bio: "Developpement Flutter et animations modernes.",
     photo: "/team/membre4.jpg",
@@ -48,14 +48,14 @@ const team = [
     email: "membre6@aqualynk.sn",
   },
   {
-    name: "Membre 7",
+    name: "Arame Gningue",
     role: "Documentation",
     bio: "Redaction technique, rapports et presentations.",
     photo: "/team/membre7.jpg",
     email: "membre7@aqualynk.sn",
   },
   {
-    name: "Membre 8",
+    name: "Seydina Mouhamed Ndiaye",
     role: "Communication",
     bio: "Marketing, reseaux sociaux et relation client.",
     photo: "/team/membre8.jpg",
