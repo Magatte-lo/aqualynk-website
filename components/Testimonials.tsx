@@ -26,7 +26,7 @@ const fallbackTestimonials: Comment[] = [
     id: 3,
     name: "Modou Sarr",
     role: "Agriculteur bio - Saint-Louis",
-    message: "J'economise vraiment beaucoup d'eau et mes cultures sont plus saines. Hate de voir l'evolution du projet !",
+    message: "J'espere economiser vraiment beaucoup d'eau et que  mes cultures seront plus saines . !",
     rate: 4,
     created_at: new Date().toISOString(),
   },
